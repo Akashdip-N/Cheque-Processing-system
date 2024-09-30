@@ -6,8 +6,8 @@ To view the BPNM diagram, you need to have [Camunda Modeler](https://camunda.com
 
 # How the BPNM diagram look
 1. As is BPNM diagram
-   ![Diagram Top Part](BPNM Diagram Images/as_is_1.png)
-   ![Diagram Final Part](BPNM Diagram Images/as_is_1.png)
+   ![Diagram Top Part](Screenshot/as_is_1.png)
+   ![Diagram Final Part](Screenshot/as_is_2.png)
 
 # To view the BPMN diagram
   * Open the Camunda Modeler
