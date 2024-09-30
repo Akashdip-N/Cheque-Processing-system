@@ -1,5 +1,5 @@
 # About this Project
-Hi, I have created two simple BPNM diagram which shows how the `current cheque proccessing system` works and `how it can be changed after implementing automation`. And also have added a small code to simulate the process of cheque processing.
+Hi, I have created two simple BPNM diagrams which show how the `current cheque processing system works` and `how it can be changed after implementing automation`. I also have added a small code to simulate the process of cheque processing.
 
 # Requirements to view the BPNM diagram
 To view the BPNM diagram, you need to have [Camunda Modeler](https://camunda.com/) installed in your system.
