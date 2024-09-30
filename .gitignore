@@ -9,6 +9,3 @@ pyvenv.cfg
 *.ipynb_checkpoints
 *.class
 logs
-
-# Dataset folder
-Dataset/
