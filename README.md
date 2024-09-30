@@ -4,6 +4,11 @@ Hi, I have created two simple BPNM diagram which shows how the `current cheque p
 # Requirements to view the BPNM diagram
 To view the BPNM diagram, you need to have [Camunda Modeler](https://camunda.com/) installed in your system.
 
+# How the BPNM diagram look
+1. As is BPNM diagram
+   ![Diagram Top Part](BPNM Diagram Images/as_is_1.png)
+   ![Diagram Final Part](BPNM Diagram Images/as_is_1.png)
+
 # To view the BPMN diagram
   * Open the Camunda Modeler
   * Navigate to the folder named `BPNM Diagrams`
