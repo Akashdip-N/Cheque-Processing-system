@@ -1,0 +1,14 @@
+# The files in this path will be ignored
+.vscode
+__pycache__
+.idea
+bin
+lib
+pyvenv.cfg
+*.DS_Store
+*.ipynb_checkpoints
+*.class
+logs
+
+# Dataset folder
+Dataset/
