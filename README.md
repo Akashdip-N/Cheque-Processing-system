@@ -9,6 +9,11 @@ To view the BPNM diagram, you need to have [Camunda Modeler](https://camunda.com
    ![Diagram Top Part](Screenshot/as_is_1.png)
    ![Diagram Final Part](Screenshot/as_is_2.png)
 
+2. As is BPNM diagram
+   ![Diagram Top Part](Screenshot/to_be_1.png)
+   ![Diagram Middle Part](Screenshot/to_be_2.png)
+   ![Diagram Final Part](Screenshot/to_be_3.png)
+
 # To view the BPMN diagram
   * Open the Camunda Modeler
   * Navigate to the folder named `BPNM Diagrams`
