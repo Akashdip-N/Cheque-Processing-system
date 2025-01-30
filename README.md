@@ -38,11 +38,11 @@ Next follow the steps below:
 
 # Output
 After running the code the following will be the output:
-  * Create a database named `cheque_processing_system`
-  * Create two table named `Drawee_bank` and `Beneficiary_bank`in the database, which will have the name, account number and the amount of balance present in their account.
-  * Insert the data into the table
-  * Fetch the data from the table
-  * Update the data in the table
-  * Delete the data from the table
+  * It will create a database named `cheque_processing_system`
+  * It will create two tables named `Drawee_bank` and `Beneficiary_bank` in the database, which will have the name, account number and the amount of balance present in their account.
+  * It will insert the data into the table
+  * It will fetch the data from the table
+  * It will update the data in the table
+  * It will delete the data from the table
 
 Thus simulating the cheque processing system.
